@@ -1,0 +1,25 @@
+body{
+  background: green;
+}
+
+#main{
+  margin: auto;
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 50px;
+  color: greenyellow;
+  background: black;
+  width: 600px;
+  height: 125px;
+  text-align: center;
+  line-height: 120px;
+  margin-bottom: 50px;
+}
+
+#meme{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-bottom: 50px;
+  border: 10px solid black;
+}
